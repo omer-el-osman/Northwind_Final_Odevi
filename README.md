@@ -1,5 +1,5 @@
 # Northwind_Final_Odevi
-##kullandigim teknikler :
+kullandigim teknikler :
   1.Html
   2.css
   3.js
@@ -8,7 +8,7 @@
   7.design pattern
   8.Ado.net
   9.Sql 
-##bu projeyi calistirmak icin :
+bu projeyi calistirmak icin :
   1.connaction String json dosyasinda yazmaniz gerekiyor
   2.Classlarda Sql server e baglamak icin ve tum islemleri yapabilmek icin connaction string SqlConnaction da yazmainz gerekiyor
   3.sql serverde New Query yapin
